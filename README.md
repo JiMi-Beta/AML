@@ -6,4 +6,6 @@ The folders random-search/experimentScripts, smac, and tpe contain all scripts f
 
 SMAC has special install instructions: https://automl.github.io/SMAC3/master/installation.html
 
+Random search and TPE can be installed through pip install hyperopt.
+
 After having followed the above steps, one can run one of the scripts using 'python3 scriptname.py > resultsfilename'
